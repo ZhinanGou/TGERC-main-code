@@ -12,7 +12,6 @@ import os
 # pandas can read quicker
 import csv
 
-
 class DialogEvaluator:
     """
     Base class for all evaluators
